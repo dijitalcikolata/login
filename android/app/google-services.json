@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1043751289500",
+    "project_id": "login-c1b4e",
+    "storage_bucket": "login-c1b4e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043751289500:android:49568376a7252f771fa359",
+        "android_client_info": {
+          "package_name": "com.dijitalcikolata.login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlSoM7WOgPRH28jt0jaawzF5mJ2zJsdSo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
